@@ -1,8 +1,3 @@
-/*
- * TCSS 305
- * Assignment 1 - Testing
- */
-
 import java.awt.Color;
 import java.awt.Point;
 import java.util.Objects;

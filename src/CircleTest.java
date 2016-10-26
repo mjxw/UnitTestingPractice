@@ -1,7 +1,3 @@
-/*
- * TCSS 305 - Winter 2016
- * Assignment 1 - Testing
- */
 import static org.junit.Assert.*;
 
 import java.awt.Color;
